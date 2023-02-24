@@ -1,0 +1,3 @@
+[submodule "sportsee"]
+	path = sportsee
+	url = https://github.com/mathurinchung/sportsee.git
