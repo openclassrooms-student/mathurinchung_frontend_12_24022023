@@ -18,8 +18,8 @@ Plus tard durant la journée, vous recevez un mail de votre Lead Developer, Anto
 >
 > :envelope:
 >
-> **From**: Antoine
-> **To**: Moi
+> **From**: Antoine  
+> **To**: Moi  
 > **Subject**: Précisions techniques sur la page profil
 >
 > Re,
@@ -38,7 +38,7 @@ Plus tard durant la journée, vous recevez un mail de votre Lead Developer, Anto
 >
 > D’ailleurs, il faudra que tu commences le projet en réalisant un mock des données de l'API. Dès que ton projet sera fonctionnel, tu pourras t’attaquer à l’intégration de l’API. Il faudra également que tu crées une classe de modélisation des données pour t'assurer de toujours formater correctement les données de l'API avant de les utiliser.
 >
-> Pour finir, il est important que tu documentes ton projet pour que tout le monde puisse travailler dessus :slight_smile:. Garde donc en tête :
+> Pour finir, il est important que tu documentes ton projet pour que tout le monde puisse travailler dessus :slightly_smiling_face:. Garde donc en tête :
 >
 > * L’ensemble de ta documentation doit être réalisée en anglais.
 > * Le fichier README ne doit comporter que les étapes d’installation ainsi que les prérequis du projet. Dans ce fichier, tu devras dire comment installer et lancer le projet.
