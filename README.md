@@ -10,7 +10,7 @@ Vous recevez ce matin un Slack de Charles, le Product Owner :
 > 
 > :speech_balloon:
 >
-> Hello ! Bon, c’est le grand jour aujourd’hui, on va s’attaquer à la nouvelle page profil utilisateur du site :). Tiens, Léo (le designer) vient de me faire parvenir [le lien Figma de la maquette](https://www.figma.com/file/BMomGVZqLZb811mDMShpLu/UI-design-Sportify-FR?node-id=0%3A1). Et voici[ le kanban avec les User Stories](https://www.notion.so/openclassrooms/Copy-of-Dev4U-projet-Learn-Home-6686aa4b5f44417881a4884c9af5669e) à intégrer pour ce projet. Pour ce sprint, il faut que tu intègres les US de la partie TODO (le reste sera au sprint suivant).
+> Hello ! Bon, c’est le grand jour aujourd’hui, on va s’attaquer à la nouvelle page profil utilisateur du site :). Tiens, Léo (le designer) vient de me faire parvenir [le lien Figma de la maquette](https://www.figma.com/file/BMomGVZqLZb811mDMShpLu/UI-design-Sportify-FR?node-id=0%3A1). Et voici [le kanban avec les User Stories](https://www.notion.so/openclassrooms/Copy-of-Dev4U-projet-Learn-Home-6686aa4b5f44417881a4884c9af5669e) à intégrer pour ce projet. Pour ce sprint, il faut que tu intègres les US de la partie TODO (le reste sera au sprint suivant).
 >
 
 Plus tard durant la journée, vous recevez un mail de votre Lead Developer, Antoine, vous donnant plus de détails techniques sur le projet.
